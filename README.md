@@ -53,6 +53,10 @@ Recommendation
 
 After observing the results from the various regression models, it was seen that the effect of the level of involvement of help desk employees is the most significant in reducing the number of complaints received. Apple Inc. could better train their employees to deal with customers that are older, have less experience with technology and maybe try to debug their OS in relation to reducing the number of complaints they receive. Regularly updating online help forums and increasing the level of help desk employees to do more such as reach out to customers who may have complained earlier or finding systems to faster evaluate common problems may help. Apart from employee training and caching, it may be helpful to take feedback from the employees and understand how to help them to keep customer satisfaction high in parallel to Apple&#39;s high product quality.
 
+Technical Notes
+A pooled OLS model will be conducted to show progression
+A first differences model will be attempted for robustness to avoid biases arising from time invariant variables 
+
 
 **Appendix 4: VBA Code to clean data**
 
